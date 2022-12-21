@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Score</string>
+    <string name="subject">科目</string>
+    <string name="score">成績</string>
+    <string name="pass_or_not">是否及格</string>
+    <string name="ch">國文</string>
+    <string name="en">英文</string>
+    <string name="math">數學</string>
+</resources>
