@@ -6,4 +6,5 @@
     <string name="ch">國文</string>
     <string name="en">英文</string>
     <string name="math">數學</string>
+    <string name="check">檢查分數</string>
 </resources>
